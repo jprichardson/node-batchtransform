@@ -7,9 +7,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:jprichardson/node-batchtransform.git"
   },
-  "keywords": ["batch", "control", "flow", "file", "files", "transform", "convert", "collection"],
+  "keywords": [
+    "batch",
+    "control",
+    "flow",
+    "file",
+    "files",
+    "transform",
+    "convert",
+    "collection"
+  ],
   "author": "JP Richardson <jprichardson@gmail.com>",
   "licenses": [
     {
@@ -29,6 +38,8 @@
   "devDependencies": {
     "marked": "~0.2.5",
     "hogan": "~1.0.5-dev",
-    "hogan.js": "~2.0.0"
+    "hogan.js": "~2.0.0",
+    "fs-extra": "~0.1.3",
+    "testutil": "~0.2.2"
   }
 }

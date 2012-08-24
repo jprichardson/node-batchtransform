@@ -101,7 +101,7 @@ Yuck. Very long and hard to follow code. Yes, you can definitely simplify this b
 
 Let's see the previous sample rewritten using `batchtransform`.
 
-#### New-school way
+#### New-School way
 
 ```javascript
 var marked = require('marked')
