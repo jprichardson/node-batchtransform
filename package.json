@@ -1,0 +1,34 @@
+{
+  "name": "batchtransform",
+  "version": "0.0.1",
+  "description": "Batch transform/convert a collection of files e.g. convert a collection of markdown template files to html files.",
+  "homepage": [
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": ["batch", "control", "flow", "file", "files", "transform", "convert", "collection"],
+  "author": "JP Richardson <jprichardson@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+    "batchflow": "0.0.3",
+    "nextflow": "~0.2.3",
+    "nargs": "0.0.2"
+  },
+  "main": "./lib/batchtransform.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "marked": "~0.2.5",
+    "hogan": "~1.0.5-dev",
+    "hogan.js": "~2.0.0"
+  }
+}
