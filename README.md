@@ -1,3 +1,5 @@
+[![build status](https://secure.travis-ci.org/jprichardson/node-transform.png)](http://travis-ci.org/jprichardson/node-batchtransform)
+
 Node.js - batchtransform
 ================
 
