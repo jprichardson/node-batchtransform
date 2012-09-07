@@ -1,5 +1,7 @@
 [![build status](https://secure.travis-ci.org/jprichardson/node-batchtransform.png)](http://travis-ci.org/jprichardson/node-batchtransform)
 
+### This has been renamed to batchfile.
+
 Node.js - batchtransform
 ================
 

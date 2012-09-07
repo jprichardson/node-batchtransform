@@ -1,6 +1,6 @@
 {
   "name": "batchtransform",
-  "version": "0.1.0",
+  "version": "0.1.0-1",
   "description": "Batch transform/convert a collection of files e.g. convert a collection of markdown template files to html files.",
   "homepage": [
     ""
